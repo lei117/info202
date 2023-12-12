@@ -1,0 +1,301 @@
+count,track_name,timing,track_id,artist,album,acousticness,danceability,instrumentalness,liveness,loudness,tempo
+1,Oncle Jazz,1,204t5SErksNRHRhU52g5JF,Men I Trust,Oncle Jazz,0.535,0.712,0.816,0.0813,-16.776,139.995
+2,Mirage,1,1w327AHTCoChRIkJUprAnV,Orion Sun,A Collection of Fleeting Moments and Daydreams,0.87,0.683,0.673,0.108,-10.058,117.095
+3,(dream),0,39iczvfNkZstM8KY8dNDFC,salvia palth,melanchole,0.926,0.328,0.825,0.118,-13.283,147.398
+4,Précis,0,3s9YtjSkxeeriM92mASyoO,Vansire,Angel Youth,0.96,0.532,0.757,0.103,-13.284,80.998
+5,cloud castle,1,6cSkQRxoJt6FHGrWVIGDTJ,Luna Li,jams EP,0.04,0.556,0.9,0.245,-6.731,83.9
+6,Ante Meridiem,0,1Ktm8giomJp1Fb8EI39oHn,Men I Trust,Untourable Album,0.818,0.611,0.941,0.12,-15.318,138.01
+7,Middle of Nowhere,1,52Td1R2HmvP5gevSgUaifx,Macabre Plaza,Remember Me? EP from Mp,0.0562,0.611,0.927,0.194,-6.064,105.788
+8,Sandy Kim,1,70JkATjg7LzZ9HA22SmmcK,Acid Ghost,Vacation II,0.885,0.658,0.909,0.152,-7.837,132.986
+9,January,0,2UxxDidNYPuTLiMNKBHMiK,Loving,If I Am Only My Thoughts,0.834,0.539,0.922,0.256,-7.281,106.14
+10,From the Subway Train,1,0qOCy2LqvdkMora7eZsJhQ,Vansire,Angel Youth,0.527,0.392,0.015,0.217,-10.279,72.104
+11,Hard to Let Go,0,7lKN7pik3CelVWHWGp6DfB,Men I Trust,Hard to Let Go,0.765,0.806,0.874,0.12,-14.927,141.903
+12,mirror,1,20jwGZMmI7Cl9Kd5O8yJrQ,Luna Li,jams EP,0.0347,0.454,0.774,0.142,-7.338,69.816
+13,Till the Wheels Fall Off,1,29ac5I0B0NierBqLwJgMkc,Macabre Plaza,Out With the Old in With the Taboo,0.0109,0.575,0.84,0.136,-10.767,120.028
+14,If You Love Her,1,1MaDw1BQ797k8j7xXnH486,Tokyo Tea Room,If You Love Her,0.178,0.598,0.641,0.153,-8.088,90.062
+15,I hope that you think of me,1,42LY6qYxu3L6nJ7Dt72gNy,Pity Party (Girls Club),Hard Times / Bad Trips,0.0625,0.845,6.41E-05,0.108,-9.857,105
+16,Sugar,1,2joEpsXflccZD0ZwKEdz5m,Men I Trust,Untourable Album,0.647,0.823,0.327,0.14,-12.75,114.026
+17,Cracking,0,3VwgtTh9D0CubY32jdhI5U,Crumb,Jinx,0.39,0.635,0.783,0.0993,-11.621,121.951
+18,daydream,1,1t0faf8iw1XbaJ0yznpPcB,Luna Li,jams 2,0.349,0.44,0.973,0.412,-9.889,86.809
+19,A Devil's Touch in the Midwest,1,0W2CHYtNLuEBJCCuqOona7,Macabre Plaza,An Old Smile,0.754,0.482,0.847,0.102,-15.798,159.287
+20,Précis Two,0,5LiO40bi3foQNkIDg4PlGV,Vansire,After Fillmore County,0.602,0.607,0.706,0.599,-11.963,121.485
+21,"Say, Can You Hear",1,7JvjjlZ5R1I1xRDsEkPuJ7,Men I Trust,"Say, Can You Hear",0.78,0.623,0.763,0.11,-14.1,157.912
+22,Estrangers,1,6ZyJiCgtPz0gJrhubGLkud,No Vacation,Estrangers,0.31,0.567,0.875,0.218,-6.421,122.018
+23,welcome and goodbye,0,00RLNHc2jkEjUoCUlFgPVT,"Dream, Ivory",welcome and goodbye,0.0194,0.584,0.756,0.0739,-5.175,140.031
+24,Misery Moon,0,5EwRVuWJpNNMYM4UkT561o,Luna Li,Duality,0.819,0.797,0.23,0.108,-12.42,119.78
+25,Abandoned Plaza,1,49Q4EjrGxgllOt6jXJPfeI,Macabre Plaza,Out With the Old in With the Taboo,0.00853,0.513,0.78,0.0912,-7.575,154.038
+26,Always Lone,1,5zYDxzEPmchIgpULm0QgJA,Men I Trust,Untourable Album,0.7,0.587,0.757,0.165,-10.726,83.406
+27,C U Girl,1,6FBzhcfgGacfXF3AmtfEaX,Steve Lacy,C U Girl,0.663,0.414,0.0523,0.128,-8.911,100
+28,Pistol,0,2nD9CUfMMUVxL0UyFs8fGG,Cigarettes After Sex,Pistol,0.519,0.651,0.708,0.0959,-11.74,109.979
+29,rises the moon,0,51Grh1RyUDcMBbpuyUIUHI,Liana Flores,recently,0.947,0.483,0.145,0.106,-20.149,137.35
+30,2516,1,0R6sz2EUOMSM3qaZHEpG63,Luna Li,jams EP,0.0551,0.514,0.824,0.195,-5.562,89.984
+31,All Night,0,0XvoMOI25j4wODyk8nuANS,Men I Trust,Oncle Jazz,0.732,0.795,0.899,0.0893,-13.354,146.003
+32,Think it Through,1,6Vb1cXiRAFJRNQy0pTNsRE,Vansire,The Modern Western World,0.549,0.658,0.0897,0.109,-10.089,158.494
+33,Some,1,4riDfclV7kPDT9D58FpmHd,Steve Lacy,Some,0.00548,0.784,0.254,0.0995,-6.417,104.01
+34,You're All I Want,0,4nvLuqwTOZdEJI1fcHXv8h,Cigarettes After Sex,You're All I Want,0.363,0.233,0.828,0.113,-10.947,182.161
+35,The Bug Collector,0,5nVE45ithgyVocZp5XLAk6,Haley Heynderickx,I Need to Start a Garden,0.777,0.538,0.329,0.0967,-9.705,99.622
+36,Organon,0,7uKoqhOj7sfF1GowMuAc6I,Men I Trust,Untourable Album,0.831,0.6,0.901,0.102,-15.751,96.977
+37,Flook,1,4uJygJrv9ZRqkxfDijPxod,Hector Gachan,Untitled '91,0.732,0.701,0.796,0.413,-11.643,109.363
+38,Slowdown,0,2yp4xIO3jBzsU3aK3pS4dv,Brad stank,Eternal Slowdown,0.499,0.693,0.631,0.338,-13.946,95.955
+39,Lunes 1 De Abril,1,0BaFtki3CupqritofvTRSj,The Holydrug Couple,Moonlust Demos,0.00857,0.451,0.908,0.166,-4.716,120.892
+40,Metamodernity,1,4RGWHfQeJftd5XrP8JUgFj,Vansire,Metamodernity,0.389,0.823,0.165,0.108,-10.077,121.968
+41,Numb (Garage Session),0,7BkMaeJDM9G257DFTvjlCX,Men I Trust,Forever Live Sessions,0.892,0.565,0.865,0.0789,-14.307,133.931
+42,Loverboy,0,3XCpEFU4uXsBq5WmVQQKC9,The Marías,"Superclean, Vol. II",0.808,0.652,0.422,0.117,-18.704,130.47
+43,Yards / Gardens,1,3PphHkiVdhRaO1EWH6ZWqZ,Kate Bollinger,Look at it in the Light,0.268,0.8,0.617,0.11,-7.52,107.984
+44,Heavy Heart,0,1AW3Kj7OuOv9o6YxwcpvzM,Pity Party (Girls Club),Heavy Heart,0.453,0.649,0.000722,0.129,-9.693,130.002
+45,Intermission,0,4hm33jVolpa22nzhlY72jD,Strawberry Guy,Taking My Time to Be,0.261,0.444,0.823,0.112,-7.219,98.958
+46,Serenade of Water,0,5tt7O3V5vwf8ltkr1Wgxrf,Men I Trust,Untourable Album,0.848,0.647,0.903,0.112,-10.816,79.503
+47,John Wayne,0,6TWcSqCntZhH5vyc35kkob,Cigarettes After Sex,Cigarettes After Sex,0.343,0.441,0.884,0.0982,-8.389,123.933
+48,Night Vision,1,1MwPvniPtqPkXwtQDFiJdb,Vansire,The Modern Western World,0.535,0.688,0.482,0.217,-9.16,121.046
+49,When I,1,4QUsmmXmINYXwh7UsiMX2j,Steve Lacy,The Lo-Fis,0.0292,0.824,0.835,0.0676,-10.422,125.961
+50,Intolewd,0,79rfskJwK9NLN3p5cdccth,Matt Maltese,Krystal,0.91,0.759,0.194,0.104,-16.991,85.092
+51,生活在別處,1,1sTuEGqpRCGlRADyBv61z0,陳婧霏,陳婧霏,0.574,0.302,0.000687,0.131,-8.586,207.782
+52,你把我的,0,6Jz3t1FJQISyASFyBEioWL,my little airport,跟你開玩笑,0.377,0.586,0.809,0.0891,-11.796,101.956
+53,Maybe Maybe,0,55e4I1RfHjQT1XAf7glB2J,The Chairs,Maybe Maybe,0.723,0.675,0.0057,0.12,-8.472,90.017
+54,Outro,0,7vkEEoH4YmeKMO44f47nP8,Di Ma,孤岛,0.868,0.531,0,0.102,-14.718,139.786
+55,雲的距離,0,6645VYAAcaBWlVYUmiUVQm,宋柏緯,雲的距離,0.662,0.706,9.68E-05,0.116,-9.355,80.022
+56,Blueberry Baby,0,6H9yzuV2014o0FHahstZfY,陳婧霏,Blueberry Baby,0.854,0.381,0.176,0.134,-10.219,124.847
+57,世界正中,0,1Th5cvvMIyYpuJaRHoKWAP,陳粒,世界正中,0.338,0.688,2.80E-05,0.102,-9.102,119.9
+58,詩歌舞街,1,45rZ0CtRR470rAOFiWJNeM,my little airport,SABINA之淚,0.732,0.641,0.0598,0.115,-15.395,121.974
+59,Archie's Funeral,0,4zCGD3HKuzvRTNDCYC9ldn,The Chairs,Archie's Funeral,0.77,0.416,0.0155,0.0848,-13.038,137.28
+60,Little Song,0,5lnnQwPdbF3uJioNX9Z5Gw,The Fur.​,Town,0.739,0.736,0.00629,0.672,-14.603,79.981
+61,人間指南,1,18n1uqpcYq3w663Z0Cquqs,陳婧霏,陳婧霏,0.721,0.557,0.176,0.346,-8.956,90.021
+62,总有一天我会欺骗你,1,07UuCZbEgcPXqpDpVDQiQF,新裤子乐队,Sex Drugs Internet,0.174,0.661,0.000278,0.307,-8.658,130.017
+63,走马,0,0cMCCfgXNvzpn9AgFJib76,陳粒,如也,0.892,0.608,0.00238,0.0909,-8.638,139.748
+64,循環的夜,1,47jGYuKiZdYnRvnHTI1vYH,my little airport,跟你開玩笑,0.00199,0.553,0.419,0.0882,-10.174,133.994
+65,夏日最美的三十張拍立得相片,0,0q2aQjmx78thNrEACINk4Z,The Chairs,夏日最美的三十張拍立得相片,0.931,0.645,0,0.0916,-10.662,86.058
+66,積極向下,1,5EYCb402em5sZ1SPz6kbrz,陳婧霏,積極向下,0.185,0.587,0.0225,0.438,-6.609,139.989
+67,World War Zero,0,29OZwEjRD6zumBWbVxROcx,VOOID,VOOID,0.98,0.364,0.0745,0.0934,-14.266,164.471
+68,Lonely Day,1,7DclVCm9G4fCYszIpOh4u5,The Life Journey,来福胶泥,0.559,0.741,0.693,0.117,-8.894,117.039
+69,祝星,1,4xX2Km7PorwBkzXuYzoiLS,陳粒,如也,0.0834,0.363,0.000952,0.22,-4.767,120.185
+70,我們一起離開吧,0,5HtnfNpC6FoeKIswjbML92,my little airport,寂寞的星期五,0.117,0.272,0.563,0.0873,-9.742,210.106
+71,晚風,0,6XppqdT4iqWSlQoCQUtD6v,陳婧霏,晚風,0.941,0.365,0.00716,0.109,-15.058,185.104
+72,日常的鏡頭,0,1eV8d10G3S0YbK5Zn0Q20I,The Chairs,LOVELY SUNDAY,0.61,0.625,0.000686,0.0879,-11.286,105.923
+73,马,0,2IjLtXQKaA9dTcnPwQJoeu,福禄寿,我用什么把你留住,0.788,0.503,0,0.231,-11.852,100.076
+74,给抱着盒子的姑娘,0,501rWkDIlzIPRJEaF19p30,宋冬野,安和桥北,0.893,0.333,0.705,0.103,-19.169,135.608
+75,奇妙能力歌,0,3mI8CEKN4jBiq41WHaOPOg,陳粒,如也,0.903,0.583,0.00157,0.0925,-10.511,109.805
+76,舞舞舞,1,4nKJxWtqTI9begn3B3dhGV,陳婧霏,陳婧霏,0.693,0.529,0.212,0.105,-7.168,93.919
+77,QUEEN,1,5PimlePLQd8xdf7uKccHqS,my little airport,SABINA之淚,0.699,0.453,0.0136,0.145,-13.896,178.211
+78,給 來自月球的L,0,1AlOP5NfsY8pXsT9C2qXH0,The Chairs,Real Love Is...,0.803,0.477,0.00128,0.0861,-11.352,139.921
+79,理查,1,6lMz5CHf0ziuvCpMklEZ4C,Our Shame,理查,0.485,0.678,0.075,0.113,-9.461,119.972
+80,爱人穿过你,0,3pxE2CtlvqHfVs4f09tBIX,刘森,华北浪革,0.905,0.612,0.145,0.108,-14.193,119.967
+81,梦里水乡,1,0txcEBZ4HWYYUTOG8DooyF,陳婧霏,梦里水乡(青春重置计划5 请回答1999),0.829,0.53,5.70E-05,0.0836,-8.429,123.861
+82,七楼,0,39AAqvsYdQglthnEfoJPM7,陳粒,如也,0.791,0.61,0,0.136,-8.779,134.928
+83,SABINA之淚,1,0bVAhqMaAOEqF9ZmpBXdII,my little airport,SABINA之淚,0.601,0.551,0.0131,0.107,-14.207,159.929
+84,進入下一層新的夢之前,0,2LmNW7kMeYp2wUqMpIAge6,The Chairs,Shangri-La Is Calling,0.864,0.436,0,0.141,-13.827,173.038
+85,夏夜晴朗的晚上,0,6wiN6mgr0WsJk0lMcfl8zu,Matt Lv,Fresh Soul,0.611,0.596,0.000218,0.125,-9.311,79.996
+86,深藍,0,54ZstdCX7cfTl5zBLLCn2Z,陳婧霏,陳婧霏,0.62,0.577,0.00105,0.103,-9.683,133.98
+87,今年一定带你去看海,1,5No9vr77a0AACobnwSJu9Z,和平饭店,今年一定带你去看海,0.101,0.368,3.52E-05,0.676,-7.494,185.988
+88,自渡,0,27fbYFKVb7wbw3kgygxB4T,陳粒,小梦大半,0.913,0.365,0.000355,0.107,-16.254,122.999
+89,LUNCH,0,4KPYzvCbNRFCljGyqyhlQb,my little airport,跟你開玩笑,0.279,0.473,0.823,0.109,-12.359,67.94
+90,I’m here,0,4R96pnRtpAaAw0cadniXTx,Osean,Sundial,0.861,0.455,0.0366,0.125,-11.621,61.031
+91,I Found Out Too Late,1,76wzhx8F2JZOZwAJXSahUU,陳婧霏,I Found Out Too Late,0.811,0.547,0.0681,0.12,-8.148,170.021
+92,手捧一杯酒,1,5k41tbPUJSYqw3anAFmAw3,The Chairs,LOVELY SUNDAY,0.217,0.616,0.0843,0.315,-8.744,100.033
+93,失眠症,1,554mXEZMcxyk8k2kC58rmr,和平饭店,隐藏菜单,0.00035,0.632,0.18,0.221,-6.017,133.021
+94,桥豆麻袋,1,6eAMd6ZcwdcQJJFH2MVqbN,陳粒,小梦大半,0.696,0.831,0.00425,0.0995,-12.744,109.979
+95,Hey Hey Baby,1,2Mh7XNWkAXgEjBXSskgUyD,my little airport,你說之後會找我,0.383,0.581,0.00333,0.0999,-13.459,89.983
+96,消亡史,1,7LOKYieAwZPjyjydCmxqan,陳婧霏,陳婧霏,0.914,0.276,0.00338,0.154,-7.895,139.863
+97,夏夜晚風,0,4PYzRKJF5qJUD2JAstC5p4,Layton Wu,夏夜晚風,0.814,0.699,0.0838,0.114,-10.781,76.988
+98,也許是你拯救了我,0,4QoGa1J42k8YWVUaVM5ETC,The Chairs,Shangri-La Is Calling,0.55,0.549,0.399,0.102,-8.574,141.974
+99,December Night,0,30QQ26PDR0uFTV2Q0bv03G,黃小楨,No Budget,0.875,0.461,6.50E-06,0.112,-12.317,147.862
+100,绝对占有相对自由,0,0nTLPQIE2i1R3Sfv14HMcW,陳粒,如也,0.746,0.645,0.0025,0.0892,-9.352,115.01
+101,Fifth,0,42cd6z8jhsKWx5So4pKJ7k,Fabrizio Paterlini,Fifth,0.992,0.473,0.799,0.0859,-30.86,127.28
+102,Supermarket,0,7fTsKBsnYyk0IG0zVNduEM,Stephen Rennicks,Normal People (Original Score from the Television Series),0.996,0,0.595,0.1,-32.82,0
+103,Ferme Les Yeux,0,1Kb2DqjHRvOcT5xeWtz3t5,Sylvain Chauveau,Des Plumes Dans La Tête,0.994,0,0.973,0.0922,-23.636,0
+104,Breath In,1,2ds4sKFAQHeO1Nu6YFKvBP,Yehezkel Raz,"Preludes, Book 1 - Streams",0.994,0.312,0.921,0.088,-36.733,77.806
+105,In Between Breaths,0,5R7hEGK5lppKriOzmQZd6v,SYML,You Knew It Was Me,0.994,0.467,0.933,0.081,-16.997,179.694
+106,Back in Time,0,6KVyd6WJOcjvr0HVKWfHa6,Borrtex,Reflections,0.994,0.523,0.906,0.0915,-26.471,159.892
+107,Sorrow and Bliss,0,1aEOhvZOwZDlZMzJgKlwve,Melodrama,Wounded Heart,0.987,0.556,0.77,0.115,-15.879,130.059
+108,I Just Want You - From 'Castle',0,0EnJ7hwoixkSPHQHMDAsQ5,Mercuzio Pianist,I Just Want You (From 'Castle'),0.99,0.699,0.836,0.0649,-22.361,129.775
+109,Eloise,0,3qkJHyJmdBB6WRjF3RiaA0,Jordan Seigel,Half Brothers (Original Motion Picture Soundtrack),0.841,0.293,0.902,0.098,-21.534,56.401
+110,Distractions,0,4Ks0OfgQpb58nHvQrcaiPi,Fabrizio Paterlini,Transitions II,0.99,0.123,0.945,0.098,-38.528,114.425
+111,Chorégraphie du départ - Instrumental,0,483q7jVbT1sTIOEopqahEc,Daprinski,Chorégraphies de l'ordinaire (Instrumentals),0.883,0,0.914,0.0957,-16.055,0
+112,Milestone,0,3SZQKspfgztDJDhghzJT3f,Yehezkel Raz,"Preludes, Book 2 - Torrents",0.985,0.118,0.961,0.0966,-36.502,182.072
+113,Mood Effects,0,2huiZlrSjqdehvqdwL4kbW,Melodrama,Wounded Heart,0.984,0.463,0.877,0.0951,-15.739,124.015
+114,Morning Light,1,1TlLiTOmPm9TRTjLXvzNKY,Alexei Surovykh,Morning Light,0.966,0.23,0.853,0.111,-22.94,193.495
+115,Istanbul Wedding,0,3jr9gtpaDA4XFdDSqRpPZk,Fabrizio Paterlini,Transitions,0.995,0.376,0.949,0.117,-33.177,116.149
+116,Ode to Vivian - Rework,0,18oB9NlhCMSzlte5KAj5tl,Patrick Watson,Ode to Vivian (Rework),0.973,0.451,0.915,0.104,-29.372,132.813
+117,Elegie II - Reprise,1,5EMhyZeaCTTJqLClaZpga7,Luca Longobardi,Van Gogh - La Nuit Étoilée,0.988,0.408,0.945,0.0815,-26.595,103.918
+118,Emerald,1,5X2vI0gKaCrTQ7RFmSpPeQ,Yehezkel Raz,"Preludes, Book 2 - Torrents",0.994,0.293,0.93,0.115,-35.27,146.479
+119,Escape To Solitude,0,0B7I8htX6hH1dvo7witFQD,Melodrama,Wounded Heart,0.995,0.455,0.928,0.11,-19.676,139.999
+120,"Home, at Last",0,0PPrNdftcnEy8Hso2iQ5uL,Fabrizio Paterlini,Transitions III,0.983,0.346,0.941,0.0787,-35.359,82.161
+121,The Mentor,0,5EME2V1E9ZCEBWr1Br0I0x,Sleeping At Last,Many Beautiful Things (Original Motion Picture Soundtrack),0.994,0.58,0.953,0.104,-24.587,139.87
+122,Reframe,0,67ksXATAe92UP1mwod4e3s,Norman Dück,By Your Side,0.99,0.319,0.942,0.102,-29.23,138.784
+123,"J'y suis jamais allé - Theme from ""Amelie""",1,1tjYTA591mOo8jnAlk7T65,Mercuzio Pianist,"Hidden Gems, Vol. 1",0.964,0.517,0.924,0.119,-17.598,105.034
+124,Epilogue,0,47DeTufpEGrePu6TaVEuoN,Jóhann Jóhannsson,The Theory of Everything (Original Motion Picture Soundtrack),0.989,0.252,0.873,0.108,-24.711,135.774
+125,Misery,0,1aSYjufU8PNmUvHibsngcx,Melodrama,Wounded Heart,0.991,0.601,0.927,0.12,-20.653,113.958
+126,Leafs' Dance,0,6HZroTm8ScgYCelR3Bg8le,Fabrizio Paterlini,Transitions III,0.979,0.343,0.953,0.0962,-37.526,100.595
+127,Behind Every Decision,0,2kbruQXVXFmxxm4l75zuwy,Yehezkel Raz,"Preludes, Book 2 - Torrents",0.995,0.235,0.79,0.0956,-37.822,69.677
+128,Happy Tears,0,5qoxaTocADLacguJtCaGU7,James Heather,Modulations: EP2,0.993,0.277,0.922,0.109,-27.299,68.3
+129,dream river.,0,1Gdcsjq1KpDyqaHvnBr7u1,Woodsman,dream river. (Async Ross reworks),0.969,0.252,0.876,0.105,-26.619,140.779
+130,Perpetual Motion,0,5z0OIg2MtPXnjo2XnKn69V,Jacob LaVallee,Perpetual Motion,0.993,0.405,0.947,0.11,-21.851,117.147
+131,Gloomy Night,0,38Mh3KBXS95kSJTar6dI9l,Melodrama,Wounded Heart,0.991,0.395,0.899,0.128,-16.831,216.019
+132,Homesick,0,0CrgeJUsttpoRwDl7g7Rru,Fabrizio Paterlini,Transitions,0.99,0.266,0.92,0.0894,-34.775,123.76
+133,With Love Comes Loss (Arr. for Piano Solo),0,33FtwY8jXSPaHRtEGFggwO,John Powell,Piano Solos from How to Train Your Dragon: The Hidden World,0.996,0,0.957,0.108,-30.998,0
+134,Before You Left,0,6IVIZuZrtuSlSPghHR1vRU,Yehezkel Raz,"Preludes, Book 1 - Streams",0.995,0.473,0.956,0.0996,-37.476,94.988
+135,Pour Les Oiseaux,0,16VVal7diuS4a6ONTUXtmy,Sylvain Chauveau,Des Plumes Dans La Tête,0.968,0.389,0.918,0.101,-19.771,70.422
+136,La noyée - Amelie soundtrack,1,2ZZ3SXe3q8fwzVtIrQpEKy,Mercuzio Pianist,La noyée,0.995,0.567,0.892,0.0981,-21.787,129.95
+137,Melancholy Life Is Sad,0,00aNuc6lcTOMXxmgmnxPYZ,Melodrama,Wounded Heart,0.995,0.615,0.921,0.113,-14.302,119.956
+138,If only I could tell,0,3x25wW5Z2pUtfrNJbPna7o,Fabrizio Paterlini,Transitions,0.989,0.312,0.907,0.0947,-39.919,66.601
+139,Find a Melody (Edit),0,78hENZb4lorYnIGuASkmiq,Andrea Vanzo,Find a Melody (Edit),0.983,0.59,0.935,0.098,-25.69,121.897
+140,Umrika,0,5AREdjPjB1gYZU2aKm75I0,Dustin O'Halloran,Umrika (Original Motion Picture Soundtrack),0.933,0.102,0.782,0.0873,-35.073,216.429
+141,Memento,0,7rluktTepDJTxl6Jb35otq,Ben Crosland,The Turn,0.985,0.42,0.942,0.0889,-24.783,136.583
+142,Birds,1,42EBfKNHKa9gXsfsSPqGaq,Virginio Aiello,Easy Piano Songs,0.986,0.207,0.793,0.109,-29.159,179.686
+143,The Nature of Melancholy,0,7w52bbdrOWpBQK0cD0MBmn,Melodrama,Wounded Heart,0.986,0.453,0.95,0.11,-16.257,67.021
+144,Summer Story,0,14rJfKM7UnD93WcfeFX76D,Fabrizio Paterlini,Transitions,0.989,0.474,0.943,0.1,-30.834,66.392
+145,For Stormboy,0,1gLbbnyTOnx6LrCQ87c0gp,Various Artists,Ambrosia (Official Soundtrack),0.992,0.197,0.861,0.0878,-29.125,123.367
+146,Chalkboard,1,7bJ6xGa3RG2dQgNiK10uAv,Jóhann Jóhannsson,The Theory of Everything (Original Motion Picture Soundtrack),0.889,0.432,0.772,0.0939,-15.925,92.682
+147,The North Wind - Daigo Hanada Re-work,0,3oM82Zz63KrnYQ0ZaTTQ9l,Jim Perkins,The North Wind (Daigo Hanada Re-work),0.964,0.181,0.95,0.106,-31.629,137.152
+148,Quiet Assumptions,0,0uVs0ISRhn8xlBYTJcSffL,Elskavon,Traditions & Traitors,0.988,0.345,0.894,0.0892,-30.974,70.737
+149,In Memories,0,4q01Psv4bRSpRCyI6gXZiY,Melodrama,Wounded Heart,0.982,0.498,0.938,0.106,-19.357,100.01
+150,Gentle Thoughts,0,3v5GaIy9gSF1BlvqW0faxu,Fabrizio Paterlini,Transitions II,0.965,0.594,0.963,0.0988,-34.495,115.046
+151,All Night Parking (with Erroll Garner) Interlude,1,496vIKS2INz840xZaKncvR,Adele,30,0.67,0.734,2.35E-05,0.194,-9.666,127.989
+152,Quietly Yours,1,7wRijQK8vRmGLK0RYW7Vr1,Birdy,Persuasion (Soundtrack from the Netflix Film),0.841,0.44,0.00249,0.114,-14.264,154.074
+153,ceilings,0,2L9N0zZnd37dwF0clgxMGI,Lizzy McAlpine,five seconds flat,0.473,0.516,0.00194,0.215,-11.762,148.005
+154,when the party's over,0,43zdsphuZLzwA9k4DJhU0I,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",0.978,0.367,3.97E-05,0.0897,-14.084,82.642
+155,The Night We Met,0,3hRV0jL3vUpRrcy398teAU,Lord Huron,Strange Trails,0.969,0.544,0.279,0.639,-9.514,87.01
+156,Love Is A Losing Game,0,3uliGwmB52ZA7brgpZMzyH,Amy Winehouse,Back To Black (Deluxe Edition),0.337,0.484,0.00627,0.146,-16.544,165.008
+157,Where's My Love,0,1B62o4CbdL9ckGvwsz2cgn,SYML,SYML,0.868,0.604,0.0343,0.112,-10.109,103.985
+158,Hometown Glory,1,3rWRug4G3BjW33bxFwrEr9,Adele,Hometown Glory,0.963,0.482,0.000906,0.117,-10.956,122.546
+159,Lights Are On,0,4IhTXiZLKATmwhMZIb1GQN,Tom Rosenthal,Z-Sides,0.981,0.44,0.465,0.111,-16.887,135.965
+160,Liability,0,6Kkt27YmFyIFrcX3QXFi2o,Lorde,Melodrama,0.92,0.587,0,0.1,-11.254,75.67
+161,Cinnamon Girl,0,2mdEsXPu8ZmkHRRtAdC09e,Lana Del Rey,Norman Fucking Rockwell!,0.814,0.294,0.414,0.14,-10.614,91.781
+162,ocean eyes,0,7hDVYcQq6MxkdJGweuCtl9,Billie Eilish,dont smile at me,0.816,0.511,0.0317,0.084,-7.65,144.892
+163,Keep Driving,1,2NcQic8JxdjAlAHuNbOIRE,Harry Styles,Harry's House,0.321,0.721,0.00156,0.182,-9.669,164.948
+164,Ophelia,1,5NORWMFC27ywGSZxi8uquP,The Lumineers,Cleopatra,0.613,0.664,0.000363,0.0857,-6.519,76.023
+165,Those Eyes,0,2psRActEWsTlYYd7EDoyVR,New West,Based On A True Story...,0.698,0.593,3.55E-05,0.293,-8.27,120.01
+166,Oh My God,1,3Kkjo3cT83cw09VJyrLNwX,Adele,30,0.091,0.534,0,0.0264,-3.906,88.098
+167,Don't Know Why,1,1zNXF2svmdlNxfS5XeNUgr,Norah Jones,Come Away With Me (Super Deluxe Edition),0.851,0.745,1.80E-05,0.0678,-11.216,88.609
+168,everything i wanted,1,3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,everything i wanted,0.902,0.704,0.657,0.106,-14.454,120.006
+169,Glimpse of Us,0,4ewazQLXFTDC8XvCbhvtXs,Joji,SMITHEREENS,0.891,0.44,4.78E-06,0.141,-9.258,169.914
+170,Let's Fall in Love for the Night,1,6I0KEvFfWszVJiCy5hum4V,FINNEAS,Blood Harmony,0.802,0.737,0,0.171,-7.941,127.918
+171,Chasing Pavements,1,0Z5ok0QLLttAKsujOZYOXf,Adele,19,0.291,0.616,0,0.111,-6.092,80.03
+172,Anti-Hero,1,0V3wPSX9ygBnCm8psDIegu,Taylor Swift,Midnights,0.13,0.637,1.80E-06,0.142,-6.571,97.008
+173,You Know I'm No Good,1,0DMRKqrpd0QO4RWiEdMib0,Amy Winehouse,Back To Black (Deluxe Edition),0.0139,0.694,0.00356,0.0644,-14.222,103.372
+174,lovely (with Khalid),0,0u2P5u6lvoDfwTYjAADbn4,Billie Eilish,lovely (with Khalid),0.934,0.351,0,0.095,-10.109,115.284
+175,Young And Beautiful,0,2nMeu6UenVvwUktBCpLMK9,Lana Del Rey,Young And Beautiful,0.262,0.324,3.69E-05,0.11,-8.92,113.986
+176,Million Years Ago,0,2qBmtZnPSQouvADmqaHKxk,Adele,25,0.742,0.72,0,0.11,-7.623,105.929
+177,Still Don't Know My Name,1,6N22FZs2ZhPBYi3b9XPajV,Labrinth,Euphoria (Original Score from the HBO Series),0.471,0.316,0.262,0.205,-5.963,89.643
+178,When You're Gone,1,0U1W2LZVUX7qTm7dDpqxh6,Shawn Mendes,When You're Gone,0.0248,0.603,0,0.583,-5.805,147.148
+179,July,1,6J2LdBN97cDWn0MLxYh9HB,Noah Cyrus,THE END OF EVERYTHING,0.868,0.708,0,0.0779,-8.953,72.541
+180,watch,1,7eB1V5LvAdxCc7brfGhRRo,Billie Eilish,dont smile at me,0.333,0.441,0.00198,0.103,-8.985,165.212
+181,Right As Rain,1,6OLudcGaT6HQ5bXH54kI8i,Adele,19,0.773,0.842,0,0.0891,-5.876,137.2
+182,Us,1,16XiTUC2rQvb5lmtOm3FYY,James Bay,Electric Light,0.177,0.559,1.50E-06,0.108,-4.147,69.973
+183,I’m Tired (with Zendaya) - Bonus Track,0,30XBkzzcubUJLANeXM4D0C,Labrinth,EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES),0.651,0.375,0,0.0695,-10.624,131.721
+184,right where you left me - bonus track,1,3zwMVvkBe2qIKDObWgXw4N,Taylor Swift,evermore (deluxe version),0.769,0.581,0.000106,0.117,-6.524,137.915
+185,Happiness is a butterfly,0,3lG6OtGDsYAOALxEmubQQm,Lana Del Rey,Norman Fucking Rockwell!,0.969,0.467,1.40E-06,0.0973,-10.99,70.499
+186,idontwannabeyouanymore,0,41zXlQxzTi6cGAjpOXyLYH,Billie Eilish,dont smile at me,0.737,0.483,0,0.116,-8.461,170.163
+187,Daydreamer,1,3FYqKyAKIB4mCygIFc1IYn,Adele,19,0.964,0.807,0,0.103,-13.188,109.014
+188,What A Time (feat. Niall Horan),1,5WtfUKzXircvW8l5aaVZWT,Julia Michaels,Inner Monologue Part 1,0.662,0.516,0,0.0853,-6.184,132.861
+189,Until I Found You,1,6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Easy On My Eyes,0.757,0.346,0,0.189,-6.097,202.466
+190,Don’t Blame Me,1,1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,reputation,0.106,0.615,1.76E-05,0.0607,-6.719,135.917
+191,Already Gone,0,5zCunX8URvLoBHlg1Fnjv6,Sleeping At Last,"Covers, Vol. 2",0.954,0.418,4.21E-06,0.108,-9.997,130.953
+192,bellyache,1,51NFxnQvaosfDDutk0tams,Billie Eilish,Bellyache,0.46,0.695,0.0734,0.482,-8.597,99.939
+193,Crazy For You,1,2L1zGWSV5udDZlW668nRtA,Adele,19,0.91,0.707,0,0.105,-12.3,85.868
+194,My Mind & Me,1,0XER3HPMx223xWaAgNKp4Y,Selena Gomez,My Mind & Me,0.566,0.6,0,0.0826,-5.727,143.577
+195,Sparks,0,7D0RhFcb3CrfPuTJ0obrod,Coldplay,Parachutes,0.748,0.371,0.0517,0.104,-10.506,102.617
+196,Wonder,1,6ZuahEctZD6w75peme58hm,Shawn Mendes,Wonder,0.136,0.442,2.29E-05,0.133,-5.096,139.774
+197,Part Of Me,1,1nZzRJbFvCEct3uzu04ZoL,Katy Perry,Teenage Dream: The Complete Confection,0.000417,0.678,0,0.0744,-4.63,130.028
+198,Bored,0,04sN26COy28wTXYj3dMoiZ,Billie Eilish,Bored,0.896,0.614,0.00239,0.0795,-12.695,119.959
+199,Lonely,1,6U1iuA5QfzYRPJxvdcxqtf,Noah Cyrus,THE END OF EVERYTHING,0.798,0.53,0,0.0928,-8.274,122.442
+200,People Watching,1,3TFoEJe5zNuHZStRboWPxg,Conan Gray,Superache,0.381,0.53,0,0.294,-7.281,125.721
+201,Golden Cat,1,1zvls0maQeLYZyIJwynbD1,Above the Mex,Golden Cat,0.674,0.81,0.879,0.0908,-7.757,88.985
+202,Not enough memories,1,2hEv9XOeDpFbiiNMUuB30I,Flat Ruy,Not enough memories,0.73,0.791,0.716,0.103,-14.422,83.078
+203,The Girl From Ipanema,1,7e9oGz2KsjVkI1vRtfREAe,Jack Jezzro,Romance In Rio,0.916,0.754,0.861,0.0949,-17.652,105.023
+204,Truly Another Classic,1,4Cesp17kIKOhUwQnqzdbG6,Glimlip,Twelve Chapters,0.811,0.674,0.912,0.13,-11.304,87.982
+205,Caribs,1,77IvFp174yhWdvqwBYkphA,Screen Jazzmaster,Caribs,0.531,0.767,0.849,0.0931,-8.74,83
+206,Cozy Mornings,1,677RVrYxRXzNXOJh82obdp,Cafe Nostalgia,Cozy Mornings,0.0924,0.636,0.937,0.159,-10.975,93.04
+207,Roses,1,4sckDSgsxFlaUoUbExGK1n,Jordan Elgie,Roses,0.858,0.759,0.726,0.252,-7.608,88.191
+208,My Blue Heaven,1,2o913EGUFcJT9mON171x4j,Dustin Hanusch,My Blue Heaven,0.988,0.604,0.902,0.107,-16.544,85.28
+209,The Ecstasy Of Dancing Fleas - Remastered 2008,1,0SrJKLmxC624x3r9j2O374,Penguin Cafe Orchestra,Penguin Café Orchestra,0.877,0.721,0.918,0.103,-13.564,90.557
+210,Corps & âme,1,1jAjuep6X63iC9tNs0N11D,Clem Beatz,Corps & âme,0.189,0.49,0.497,0.104,-8.024,95
+211,Hotel Suite,1,0jAfegA8gxxJcyFMbDGeuk,Ben Jammin' Beats,Dapper,0.221,0.749,0.944,0.0697,-13.106,83.224
+212,get up and go,1,0AmxMNsfzteEOvlMx3r5JU,DESH,get up and go,0.213,0.601,0.886,0.0885,-9.945,173.986
+213,Love Never Felt So Good,1,2gKVHMOjh7AbnPltfAZvJA,Shin Giwon Piano,Pop Jazz #2 (Instrumental),0.869,0.707,0.85,0.114,-15.113,116.962
+214,Alegria,1,0bFqHk62KePxyVjr7XBbuI,Cloudchord,Alegria,0.692,0.474,0.867,0.432,-9.938,73.84
+215,Clouds,1,044aJ0e4iNxsKlfwFpcPI5,Cory Wong,Cory Wong and the Green Screen Band,0.197,0.505,0.906,0.116,-10.07,113.998
+216,Chanterelle,1,6CA7xr4RNP5GTePH7B6k1n,The Dip,Won't Be Coming Back,0.138,0.73,0.933,0.0349,-5.917,107.273
+217,Shaken Not Stirred,1,4DoUD7vEYRRwhrpim886UG,No Spirit,Symbiosis,0.251,0.707,0.799,0.125,-8.005,94.048
+218,Humanism,1,1sEwDSLIhmE4QdVKYuJ4PA,Jon Batiste,The Late Show EP,0.0744,0.669,0.861,0.187,-4.725,116.319
+219,Cosmic Echos,1,4HuigiKKmUOzZCLkJ7aZXJ,Lord Echo,Melodies,0.0149,0.721,0.658,0.0775,-10.32,110.009
+220,Soul Walkin',1,5hyE6gW9Ko1cV1jnMDhwWW,U-Nam,"The Love Vault: Future Love, Pt. 2",0.101,0.669,0.455,0.0978,-7.197,96.043
+221,From The Heart,1,2y49Z5bB6GSjMdUlmt35Cd,Dan Siegel,Along The Way: The Best Of Dan Siegel,0.509,0.764,0.893,0.0592,-8.967,119.642
+222,Child's Play,1,4AKUeSw2wBCjZVxmUU5JwT,Theo Bishop,Newport Nights,0.295,0.731,0.811,0.193,-7.895,113.056
+223,The Girl With a Plan,1,2fDLnfDTMiaGOX5NefWiUn,Acoustic Alchemy,Thirty Three and a Third,0.569,0.65,0.88,0.14,-11.62,96.513
+224,Chasin' Kendall,1,4VUuE7ZoebplIFe7HvRnSO,Stefon Harris,Sonic Creed,0.793,0.743,0.801,0.102,-12.432,105.137
+225,Turn Back Around,1,3TziwjLXuogwgy6BTl4V1a,iamalex,"Beats & Waves, Vol. 1",0.0679,0.733,0.868,0.304,-6.609,88.058
+226,Angel Eyes (feat. Eric Harland & Matt Penman),1,3PXCAZj9WuQF9NsQh6sE1S,John Nazarenko Trio,Darn That Dream (feat. Eric Harland & Matt Penman),0.612,0.509,0.743,0.11,-14.795,121.93
+227,Boogaloo Pow,1,1bhYSo8vmBwgq3n6Su3rcc,Cleon,Jaylis and Family,0.0351,0.804,0.866,0.16,-6.042,119.856
+228,Shift,1,2FAOGnDgpm7JqlLGIZu7zr,Garth Stevenson,Voyage,0.64,0.665,0.944,0.118,-16.544,93.008
+229,Minquiers,1,3fPjTevbs1gCDorMjymahc,Minihi,Recaptures,0.815,0.608,0.885,0.121,-12.773,98.967
+230,Tumbling,1,387Vd8kBUNPLys6SVOTjIm,Clarence Reed,Endless,0.975,0.474,0.886,0.135,-19.425,79.978
+231,Free as Can Be,1,7DyP2GLNXraWr4NT7ejfhu,Magnus Ringblom,Ambivalent Thoughts,0.462,0.616,0.942,0.284,-10.32,99.968
+232,Cranberry Garden,1,2SwEEi5KvkPTmW2YNHKeBk,Peter Sandberg,Cranberry Garden,0.968,0.496,0.892,0.0865,-20.71,176.03
+233,Flourishing Views,1,5KhrmGLLiJ6ouA2G4b60S1,Martin Gauffin,Flourishing Views,0.895,0.649,0.896,0.113,-17.803,135.013
+234,Meadowlark,1,6rJtXHtsqmmhf7hREtv6w7,Paul Alan Morris,Meadowlark,0.888,0.462,0.259,0.144,-16.249,89.751
+235,Amichevolmente Restare,1,6heAUouflwGdHCWckIfUR8,Martino Vergnaghi,Amichevolmente Restare,0.979,0.526,0.937,0.09,-17.058,62.105
+236,English Garden,1,3Esa3QaNCDzr7x5yjIH58q,Jimmy Wahlsteen,Broadsides,0.799,0.664,0.82,0.143,-8.039,108.924
+237,Turquoise Shell,1,3i0pSLBzYPBkFpIU9PPgrh,Mike Beating,Turquoise Shell,0.858,0.435,0.804,0.149,-14.799,179.843
+238,Paper Bag,1,0feI2qZLlaapheeJeznYwZ,Frances The Mute,Paper Bag,0.959,0.834,0.937,0.114,-10.803,90.012
+239,Up Up Away,1,6CqceOgk78dlboGgHsYxlD,Clarence Reed,Near Light,0.947,0.567,0.885,0.0766,-21.033,139.985
+240,nightcap,1,56YXAsG8CaTI1XCaHlpLIw,calle de phnk,nightcap,0.699,0.746,0.65,0.143,-11.555,83.013
+241,Hummingbird,1,0hs2c9NuhwK60vHOuoK8ls,Holly Jones,Hummingbird,0.986,0.452,0.915,0.0943,-19.019,118.885
+242,Montego,1,3t3KBPlKEIxUtk3h0DNQJn,Toshdy,Montego,0.854,0.418,0.914,0.0988,-9.749,76.948
+243,Vuela Con el Viento,1,3FeUfu0y2ZkG3pzCYkYZkh,Ayla Schafer,Dive into Water,0.86,0.677,9.93E-05,0.0936,-12.873,142.056
+244,Poetic Wax,1,6ueWeJJyq1rMkdNitaL7a6,Dusty Decks,On the Keys of Steel,0.415,0.707,0.916,0.118,-7.686,193.982
+245,Plume - Folk Guitar,1,0WQLQbXpyK87377L7WcZiB,Adrien de la Salle,Plume (Folk Guitar),0.891,0.522,0.85,0.0905,-15.52,131.85
+246,Beautiful Day (Bonus Track),1,7MEzIneZFUiNWlwovA9HcZ,Aykanna,Livelight ~ Yoga & Meditation Music,0.713,0.828,0,0.0969,-5.868,117.921
+247,Never Say No,1,2MEBBzfsWQwjqWDU8WzdT6,Clarence Reed,Now Rise,0.933,0.703,0.887,0.123,-17.253,165.029
+248,Neptune,1,6tDepHpT6yyQzdYMyevyy4,Beauvois,Dimensions,0.752,0.475,0.0158,0.0868,-17.558,103.858
+249,Horizon,1,4ymBwYo9npyadEnJDZxaJ0,Equanimous,Horizon,0.102,0.758,0.909,0.0838,-11.039,93.999
+250,Thirty Two,1,4i1W0kFBlrvvyudKBUeJYi,UTAH,Long Play,0.279,0.671,0.915,0.324,-7.121,80.103
+251,Boundless Spirit,1,2EvwrImexrRTYTGieKjOi9,DJ Taz Rashid,Road To Shambala,0.0174,0.569,0.826,0.131,-10.139,106.043
+252,Samurai,1,2AXqiVRL9dhZ47IDPiGR6H,Mr OCB,Samurai,0.447,0.558,0.844,0.102,-9.879,116.28
+253,Victory Within,1,5Xop7OCwvgbxFFFiVjmmTG,Ian Wong,Stories in Motion,0.993,0.464,0.928,0.115,-15.93,95.448
+254,Springtime,1,6c8JApK6V5u1keEsStblBU,Vlad Gluschenko,Tropical Island,0.959,0.755,0.886,0.135,-15.665,119.94
+255,Chillin',1,54G7nglEzYJdrIfCcur3El,Slacker Boy,From Above,0.483,0.729,0.408,0.237,-9.117,170.045
+256,Waking up on a Picnic Blanket,1,1gl2SfbVdKKp2eoFOzRS5O,Lullatone,The Sounds of Spring - EP,0.915,0.636,0.653,0.111,-13.66,111.034
+257,8888Hz Pure Positive Energy,1,3LPCemLrhyO0fN25CFaOIK,Emiliano Bruguera,8888Hz Powerful Meditation Frequency,0.795,0.174,0.957,0.0901,-13.378,72.626
+258,Reminiscing,1,226lvTqQL26akUSpu69GXT,CMJ,Reminiscing,0.476,0.634,0.889,0.104,-18.844,80.011
+259,BEACH WAVES,1,5kh6cDKfut5E1J8mP8dX0Y,Boshi,BEACH WAVES,0.934,0.604,0.935,0.108,-15.12,89.889
+260,Coffee In The Park,1,1a0RkdnA19BiIz8m6aFdi4,Mister Decaf,Coffee In The Park,0.403,0.589,0.776,0.138,-8.81,170.314
+261,Reverie,1,3yh1jVM8xk5JgWX9bDIOzS,TELL YOUR STORY music by Ikson™,Reverie,0.115,0.721,0.799,0.152,-13.811,125.003
+262,love in the morning sun,1,6RWgGlkUfIb1DKR47S49T5,connor,love in the morning sun,0.253,0.578,0.702,0.401,-6.264,93.964
+263,Sunu,1,2ZWiYlfME5IqOOI2ba5cWg,Rising Appalachia,Soul Visions,0.501,0.641,0.624,0.151,-7.61,97.918
+264,Morning Roots,1,2yQkRX3wu6PWLDvq2tH4In,Guillaume Poncelet,88,0.962,0.192,0.881,0.103,-26.296,155.482
+265,Borealis,0,5B0LwnnmQTNMW4KLPukmdN,Sofiane Pamart,BOREALIS,0.979,0.315,0.878,0.133,-20.977,68.216
+266,Pigment - Parra for Cuva Piano Reinterpretation,1,4kdz93JHkbTjKhCp7jRFvz,Christian Löffler,Pigment,0.973,0.386,0.934,0.107,-25.558,124.386
+267,Journey Among Worlds,1,17q37PWLk0twxFsUmImyxX,Niklas Paschburg,Oceanic,0.968,0.522,0.918,0.385,-16.387,90.02
+268,"Hug, Run.",1,4iF99Vmhr7GkgV58twAtOn,Wouter Dewit,Still,0.792,0.49,0.775,0.293,-30.16,91.998
+269,Water Falls,1,0TsOENhOWheb6jdJ8EF6Kh,René Aubry,Chaos,0.961,0.38,0.941,0.129,-13.807,179.847
+270,AMS,1,5jECarJPSI4VOQ8o8eZLkR,Martin Kohlstedt,Strom,0.937,0.254,0.932,0.089,-20.612,78.607
+271,Céline,1,0qQmpXN9H1psb6wFGDJ0cL,Federico Albanese,The Blue Hour,0.667,0.408,0.876,0.175,-18.024,83.02
+272,Holtnevel,1,6epgcR9ha9OBRiFHty4yUJ,Niklas Paschburg,Tuur mang Welten,0.909,0.485,0.865,0.334,-20.117,95.012
+273,Echoes,1,0ZsjfqmZ6t3YrhNS2SFDvV,Fragments,Imaginary Seas,0.953,0.575,0.936,0.113,-19.18,125.911
+274,Avant Que Je N’Oublie,1,0aPAdcSQ6cpouzCEl3xaUM,REYN,Écoute La Neige Tomber,0.916,0.334,0.864,0.114,-18.408,79.91
+275,By the Deep Sea,1,16Xl9H3ITIZFIYP5feQ9Sm,Federico Albanese,By the Deep Sea,0.885,0.541,0.868,0.0876,-22.624,119.916
+276,Dawn,1,3cBeZh1L3646SicBYHxmnu,Niklas Paschburg,Dawn,0.914,0.38,0.896,0.133,-16.354,89.994
+277,Papillon,1,4usTAQjK2gV81nIxkyoniQ,Johannes Motschmann,Waves At Boundaries,0.929,0.195,0.864,0.121,-25.408,67.969
+278,We Were There,0,1uwKP0GLOEadApXpoMqynE,Federico Albanese,By the Deep Sea,0.84,0.254,0.899,0.0777,-22.392,135.145
+279,La Joya,1,5nbKnom4NGsUFFSqftOZhQ,Aukai,Reminiscence,0.938,0.596,0.84,0.0978,-15.473,138.968
+280,"The Desert, Pt. 2",1,6z1oSXZmkwjAUXQ60eqf9e,René Aubry,Chaos,0.798,0.612,0.889,0.114,-11.944,109.968
+281,Ocean,1,3boXyamYzmzAvMbu5Rwmlv,Søndag Søndag,Ocean,0.969,0.539,0.912,0.122,-23.677,159.897
+282,Oceans Apart,0,1yqM5O07lL7R6UAdK5jvrR,Ben Crosland,The Turn,0.987,0.396,0.935,0.11,-20.707,95.217
+283,Fireplace,0,4EmiPEv2zeh1fS43C5y4MW,Carmelito,Fireplace,0.993,0.448,0.943,0.123,-25.422,108.495
+284,Chipululu,1,7unmR4eBHHW3d4G9dCZ6YG,The Piano Lover,Chipululu,0.987,0.361,0.966,0.119,-20.316,142.138
+285,We Will Never Come Back Here Again,0,7gy3ff6MIcr84VYFSzI1qJ,Tim Linghaus,Memory Sketches,0.968,0.59,0.969,0.111,-22.721,151.098
+286,La Ballerine,0,4oQi1BbH2g3V3s7lluq8vy,Lucién,La Ballerine,0.987,0.454,0.927,0.0832,-23.148,119.207
+287,The Cure,0,5r7SnCIKXp8AjX7sUYgBaW,Raphaël Joffres,The Cure,0.966,0.278,0.924,0.109,-18.558,202.907
+288,När trollmor har lagt sina elva små troll,0,7KLODMiUhRae6TROVoo9o9,Melody Spencer,När trollmor har lagt sina elva små troll,0.996,0.657,0.957,0.111,-24.461,143.32
+289,Memento,0,7rluktTepDJTxl6Jb35otq,Ben Crosland,The Turn,0.985,0.42,0.942,0.0889,-24.783,136.583
+290,Alla fine insieme (Together at Last),0,5YZpHsggUWJwLirje3LvqH,Guiseppe Amilcare,Alla fine insieme (Together at Last),0.993,0.385,0.945,0.105,-30.373,85.368
+291,Moving Slowly,0,4xYztiOcXXOiC1TwTsXuY3,Jacques Blanc,Moving Slowly,0.994,0.27,0.911,0.0818,-29.554,88.897
+292,My Absence,0,60aQ47g6775vmbN3yMntql,Giselle Guarezi,My Absence,0.996,0.574,0.953,0.121,-24.283,68.24
+293,Rondel,0,5ltbjrXShDx3IxIDc0V9pR,Crimson Memoirs,Rondel,0.987,0.338,0.942,0.11,-23.094,79.942
+294,Fluctuation,0,5lCas1cqz70cDzNTOrjD8K,Vittoriano di Grazia,Fluctuation,0.996,0.3,0.921,0.0852,-38.363,64.544
+295,Along Came You,0,6S89pQkAuxmU1MFUHIWuzE,Michael Lavigne,Along Came You,0.96,0.276,0.961,0.115,-26.701,52.591
+296,Open to return,0,5M6q2VBF4KLF961xGLPFw9,Constance Lucas,Open to return,0.994,0.429,0.928,0.105,-28.538,72.862
+297,Before We Met,0,1gB9Hvz050IuA28oxXtydl,Minik Jakobsen,Before We Met,0.995,0.354,0.947,0.11,-28.069,79.894
+298,Everyday,0,3ljvffjEqf4o0gvOcvxF4O,Hans Bukowski,Everyday,0.989,0.46,0.861,0.102,-33.391,81.383
+299,Lullaby,0,3U987lHXBgataMkhfi7YAL,Ben Crosland,Lullaby,0.992,0.381,0.92,0.103,-27.867,65.712
+300,Nature Calling,0,1U5nro2p0IGtHE6kZqt8WG,Jonas Holmes,Nature Calling,0.985,0.569,0.866,0.111,-26.967,98.696

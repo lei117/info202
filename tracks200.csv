@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,acousticness,danceability,energy,instrumentalness,liveness,loudness,tempo,valence
+0,Fabrizio Paterlini,Fifth,Fifth,42cd6z8jhsKWx5So4pKJ7k,0.992,0.473,0.0149,0.799,0.0859,-30.86,127.28,0.295
+1,Stephen Rennicks,Normal People (Original Score from the Television Series),Supermarket,7fTsKBsnYyk0IG0zVNduEM,0.996,0.0,0.00097,0.595,0.1,-32.82,0.0,0.0
+2,Sylvain Chauveau,Des Plumes Dans La Tête,Ferme Les Yeux,1Kb2DqjHRvOcT5xeWtz3t5,0.994,0.0,0.0323,0.973,0.0922,-23.636,0.0,0.0
+3,Yehezkel Raz,"Preludes, Book 1 - Streams",Breath In,2ds4sKFAQHeO1Nu6YFKvBP,0.994,0.312,0.0429,0.921,0.088,-36.733,77.806,0.0371
+4,SYML,You Knew It Was Me,In Between Breaths,5R7hEGK5lppKriOzmQZd6v,0.994,0.467,0.118,0.933,0.081,-16.997,179.694,0.142
+5,Borrtex,Reflections,Back in Time,6KVyd6WJOcjvr0HVKWfHa6,0.994,0.523,0.0991,0.906,0.0915,-26.471,159.892,0.277
+6,Melodrama,Wounded Heart,Sorrow and Bliss,1aEOhvZOwZDlZMzJgKlwve,0.987,0.556,0.161,0.77,0.115,-15.879,130.059,0.195
+7,Mercuzio Pianist,I Just Want You (From 'Castle'),I Just Want You - From 'Castle',0EnJ7hwoixkSPHQHMDAsQ5,0.99,0.699,0.18,0.836,0.0649,-22.361,129.775,0.268
+8,Jordan Seigel,Half Brothers (Original Motion Picture Soundtrack),Eloise,3qkJHyJmdBB6WRjF3RiaA0,0.841,0.293,0.161,0.902,0.098,-21.534,56.401,0.0386
+9,Fabrizio Paterlini,Transitions II,Distractions,4Ks0OfgQpb58nHvQrcaiPi,0.99,0.123,0.0358,0.945,0.098,-38.528,114.425,0.0399
+10,Daprinski,Chorégraphies de l'ordinaire (Instrumentals),Chorégraphie du départ - Instrumental,483q7jVbT1sTIOEopqahEc,0.883,0.0,0.173,0.914,0.0957,-16.055,0.0,0.0
+11,Yehezkel Raz,"Preludes, Book 2 - Torrents",Milestone,3SZQKspfgztDJDhghzJT3f,0.985,0.118,0.093,0.961,0.0966,-36.502,182.072,0.365
+12,Melodrama,Wounded Heart,Mood Effects,2huiZlrSjqdehvqdwL4kbW,0.984,0.463,0.219,0.877,0.0951,-15.739,124.015,0.0683
+13,Alexei Surovykh,Morning Light,Morning Light,1TlLiTOmPm9TRTjLXvzNKY,0.966,0.23,0.126,0.853,0.111,-22.94,193.495,0.277
+14,Fabrizio Paterlini,Transitions,Istanbul Wedding,3jr9gtpaDA4XFdDSqRpPZk,0.995,0.376,0.0221,0.949,0.117,-33.177,116.149,0.253
+15,Patrick Watson,Ode to Vivian (Rework),Ode to Vivian - Rework,18oB9NlhCMSzlte5KAj5tl,0.973,0.451,0.023,0.915,0.104,-29.372,132.813,0.226
+16,Luca Longobardi,Van Gogh - La Nuit Étoilée,Elegie II - Reprise,5EMhyZeaCTTJqLClaZpga7,0.988,0.408,0.0326,0.945,0.0815,-26.595,103.918,0.332
+17,Yehezkel Raz,"Preludes, Book 2 - Torrents",Emerald,5X2vI0gKaCrTQ7RFmSpPeQ,0.994,0.293,0.0232,0.93,0.115,-35.27,146.479,0.0329
+18,Melodrama,Wounded Heart,Escape To Solitude,0B7I8htX6hH1dvo7witFQD,0.995,0.455,0.136,0.928,0.11,-19.676,139.999,0.349
+19,Fabrizio Paterlini,Transitions III,"Home, at Last",0PPrNdftcnEy8Hso2iQ5uL,0.983,0.346,0.0534,0.941,0.0787,-35.359,82.161,0.0671
+20,Sleeping At Last,Many Beautiful Things (Original Motion Picture Soundtrack),The Mentor,5EME2V1E9ZCEBWr1Br0I0x,0.994,0.58,0.0609,0.953,0.104,-24.587,139.87,0.122
+21,Norman Dück,By Your Side,Reframe,67ksXATAe92UP1mwod4e3s,0.99,0.319,0.0367,0.942,0.102,-29.23,138.784,0.0556
+22,Mercuzio Pianist,"Hidden Gems, Vol. 1","J'y suis jamais allé - Theme from ""Amelie""",1tjYTA591mOo8jnAlk7T65,0.964,0.517,0.41,0.924,0.119,-17.598,105.034,0.317
+23,Jóhann Jóhannsson,The Theory of Everything (Original Motion Picture Soundtrack),Epilogue,47DeTufpEGrePu6TaVEuoN,0.989,0.252,0.0875,0.873,0.108,-24.711,135.774,0.126
+24,Melodrama,Wounded Heart,Misery,1aSYjufU8PNmUvHibsngcx,0.991,0.601,0.13,0.927,0.12,-20.653,113.958,0.463
+25,Fabrizio Paterlini,Transitions III,Leafs' Dance,6HZroTm8ScgYCelR3Bg8le,0.979,0.343,0.019,0.953,0.0962,-37.526,100.595,0.126
+26,Yehezkel Raz,"Preludes, Book 2 - Torrents",Behind Every Decision,2kbruQXVXFmxxm4l75zuwy,0.995,0.235,0.00362,0.79,0.0956,-37.822,69.677,0.0885
+27,James Heather,Modulations: EP2,Happy Tears,5qoxaTocADLacguJtCaGU7,0.993,0.277,0.0278,0.922,0.109,-27.299,68.3,0.196
+28,Woodsman,dream river. (Async Ross reworks),dream river.,1Gdcsjq1KpDyqaHvnBr7u1,0.969,0.252,0.13,0.876,0.105,-26.619,140.779,0.0775
+29,Jacob LaVallee,Perpetual Motion,Perpetual Motion,5z0OIg2MtPXnjo2XnKn69V,0.993,0.405,0.161,0.947,0.11,-21.851,117.147,0.343
+30,Melodrama,Wounded Heart,Gloomy Night,38Mh3KBXS95kSJTar6dI9l,0.991,0.395,0.16,0.899,0.128,-16.831,216.019,0.433
+31,Fabrizio Paterlini,Transitions,Homesick,0CrgeJUsttpoRwDl7g7Rru,0.99,0.266,0.0221,0.92,0.0894,-34.775,123.76,0.0704
+32,John Powell,Piano Solos from How to Train Your Dragon: The Hidden World,With Love Comes Loss (Arr. for Piano Solo),33FtwY8jXSPaHRtEGFggwO,0.996,0.0,0.00394,0.957,0.108,-30.998,0.0,0.0
+33,Yehezkel Raz,"Preludes, Book 1 - Streams",Before You Left,6IVIZuZrtuSlSPghHR1vRU,0.995,0.473,0.00366,0.956,0.0996,-37.476,94.988,0.296
+34,Sylvain Chauveau,Des Plumes Dans La Tête,Pour Les Oiseaux,16VVal7diuS4a6ONTUXtmy,0.968,0.389,0.0887,0.918,0.101,-19.771,70.422,0.304
+35,Mercuzio Pianist,La noyée,La noyée - Amelie soundtrack,2ZZ3SXe3q8fwzVtIrQpEKy,0.995,0.567,0.243,0.892,0.0981,-21.787,129.95,0.422
+36,Melodrama,Wounded Heart,Melancholy Life Is Sad,00aNuc6lcTOMXxmgmnxPYZ,0.995,0.615,0.265,0.921,0.113,-14.302,119.956,0.684
+37,Fabrizio Paterlini,Transitions,If only I could tell,3x25wW5Z2pUtfrNJbPna7o,0.989,0.312,0.00284,0.907,0.0947,-39.919,66.601,0.246
+38,Andrea Vanzo,Find a Melody (Edit),Find a Melody (Edit),78hENZb4lorYnIGuASkmiq,0.983,0.59,0.0615,0.935,0.098,-25.69,121.897,0.18
+39,Dustin O'Halloran,Umrika (Original Motion Picture Soundtrack),Umrika,5AREdjPjB1gYZU2aKm75I0,0.933,0.102,0.0677,0.782,0.0873,-35.073,216.429,0.0639
+40,Ben Crosland,The Turn,Memento,7rluktTepDJTxl6Jb35otq,0.985,0.42,0.0284,0.942,0.0889,-24.783,136.583,0.452
+41,Virginio Aiello,Easy Piano Songs,Birds,42EBfKNHKa9gXsfsSPqGaq,0.986,0.207,0.0728,0.793,0.109,-29.159,179.686,0.359
+42,Melodrama,Wounded Heart,The Nature of Melancholy,7w52bbdrOWpBQK0cD0MBmn,0.986,0.453,0.153,0.95,0.11,-16.257,67.021,0.397
+43,Fabrizio Paterlini,Transitions,Summer Story,14rJfKM7UnD93WcfeFX76D,0.989,0.474,0.0129,0.943,0.1,-30.834,66.392,0.0682
+44,Various Artists,Ambrosia (Official Soundtrack),For Stormboy,1gLbbnyTOnx6LrCQ87c0gp,0.992,0.197,0.0473,0.861,0.0878,-29.125,123.367,0.127
+45,Jóhann Jóhannsson,The Theory of Everything (Original Motion Picture Soundtrack),Chalkboard,7bJ6xGa3RG2dQgNiK10uAv,0.889,0.432,0.109,0.772,0.0939,-15.925,92.682,0.0797
+46,Jim Perkins,The North Wind (Daigo Hanada Re-work),The North Wind - Daigo Hanada Re-work,3oM82Zz63KrnYQ0ZaTTQ9l,0.964,0.181,0.0102,0.95,0.106,-31.629,137.152,0.0315
+47,Elskavon,Traditions & Traitors,Quiet Assumptions,0uVs0ISRhn8xlBYTJcSffL,0.988,0.345,0.00543,0.894,0.0892,-30.974,70.737,0.185
+48,Melodrama,Wounded Heart,In Memories,4q01Psv4bRSpRCyI6gXZiY,0.982,0.498,0.181,0.938,0.106,-19.357,100.01,0.286
+49,Fabrizio Paterlini,Transitions II,Gentle Thoughts,3v5GaIy9gSF1BlvqW0faxu,0.965,0.594,0.0479,0.963,0.0988,-34.495,115.046,0.095
+50,Adele,30,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,0.67,0.734,0.497,2.35e-05,0.194,-9.666,127.989,0.307
+51,Birdy,Persuasion (Soundtrack from the Netflix Film),Quietly Yours,7wRijQK8vRmGLK0RYW7Vr1,0.841,0.44,0.357,0.00249,0.114,-14.264,154.074,0.286
+52,Lizzy McAlpine,five seconds flat,ceilings,2L9N0zZnd37dwF0clgxMGI,0.473,0.516,0.322,0.00194,0.215,-11.762,148.005,0.261
+53,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",when the party's over,43zdsphuZLzwA9k4DJhU0I,0.978,0.367,0.111,3.97e-05,0.0897,-14.084,82.642,0.198
+54,Lord Huron,Strange Trails,The Night We Met,3hRV0jL3vUpRrcy398teAU,0.969,0.544,0.369,0.279,0.639,-9.514,87.01,0.102
+55,Amy Winehouse,Back To Black (Deluxe Edition),Love Is A Losing Game,3uliGwmB52ZA7brgpZMzyH,0.337,0.484,0.293,0.00627,0.146,-16.544,165.008,0.562
+56,SYML,SYML,Where's My Love,1B62o4CbdL9ckGvwsz2cgn,0.868,0.604,0.36,0.0343,0.112,-10.109,103.985,0.37
+57,Adele,Hometown Glory,Hometown Glory,3rWRug4G3BjW33bxFwrEr9,0.963,0.482,0.333,0.000906,0.117,-10.956,122.546,0.284
+58,Tom Rosenthal,Z-Sides,Lights Are On,4IhTXiZLKATmwhMZIb1GQN,0.981,0.44,0.04,0.465,0.111,-16.887,135.965,0.249
+59,Lorde,Melodrama,Liability,6Kkt27YmFyIFrcX3QXFi2o,0.92,0.587,0.229,0.0,0.1,-11.254,75.67,0.379
+60,Lana Del Rey,Norman Fucking Rockwell!,Cinnamon Girl,2mdEsXPu8ZmkHRRtAdC09e,0.814,0.294,0.337,0.414,0.14,-10.614,91.781,0.135
+61,Billie Eilish,dont smile at me,ocean eyes,7hDVYcQq6MxkdJGweuCtl9,0.816,0.511,0.363,0.0317,0.084,-7.65,144.892,0.169
+62,Harry Styles,Harry's House,Keep Driving,2NcQic8JxdjAlAHuNbOIRE,0.321,0.721,0.479,0.00156,0.182,-9.669,164.948,0.902
+63,The Lumineers,Cleopatra,Ophelia,5NORWMFC27ywGSZxi8uquP,0.613,0.664,0.573,0.000363,0.0857,-6.519,76.023,0.566
+64,New West,Based On A True Story...,Those Eyes,2psRActEWsTlYYd7EDoyVR,0.698,0.593,0.354,3.55e-05,0.293,-8.27,120.01,0.241
+65,Adele,30,Oh My God,3Kkjo3cT83cw09VJyrLNwX,0.091,0.534,0.725,0.0,0.0264,-3.906,88.098,0.55
+66,Norah Jones,Come Away With Me (Super Deluxe Edition),Don't Know Why,1zNXF2svmdlNxfS5XeNUgr,0.851,0.745,0.219,1.8e-05,0.0678,-11.216,88.609,0.635
+67,Billie Eilish,everything i wanted,everything i wanted,3ZCTVFBt2Brf31RLEnCkWJ,0.902,0.704,0.225,0.657,0.106,-14.454,120.006,0.243
+68,Joji,SMITHEREENS,Glimpse of Us,4ewazQLXFTDC8XvCbhvtXs,0.891,0.44,0.317,4.78e-06,0.141,-9.258,169.914,0.268
+69,FINNEAS,Blood Harmony,Let's Fall in Love for the Night,6I0KEvFfWszVJiCy5hum4V,0.802,0.737,0.408,0.0,0.171,-7.941,127.918,0.374
+70,Adele,19,Chasing Pavements,0Z5ok0QLLttAKsujOZYOXf,0.291,0.616,0.47,0.0,0.111,-6.092,80.03,0.325
+71,Taylor Swift,Midnights,Anti-Hero,0V3wPSX9ygBnCm8psDIegu,0.13,0.637,0.643,1.8e-06,0.142,-6.571,97.008,0.533
+72,Amy Winehouse,Back To Black (Deluxe Edition),You Know I'm No Good,0DMRKqrpd0QO4RWiEdMib0,0.0139,0.694,0.496,0.00356,0.0644,-14.222,103.372,0.799
+73,Billie Eilish,lovely (with Khalid),lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,0.934,0.351,0.296,0.0,0.095,-10.109,115.284,0.12
+74,Lana Del Rey,Young And Beautiful,Young And Beautiful,2nMeu6UenVvwUktBCpLMK9,0.262,0.324,0.416,3.69e-05,0.11,-8.92,113.986,0.151
+75,Adele,25,Million Years Ago,2qBmtZnPSQouvADmqaHKxk,0.742,0.72,0.274,0.0,0.11,-7.623,105.929,0.179
+76,Labrinth,Euphoria (Original Score from the HBO Series),Still Don't Know My Name,6N22FZs2ZhPBYi3b9XPajV,0.471,0.316,0.63,0.262,0.205,-5.963,89.643,0.313
+77,Shawn Mendes,When You're Gone,When You're Gone,0U1W2LZVUX7qTm7dDpqxh6,0.0248,0.603,0.691,0.0,0.583,-5.805,147.148,0.577
+78,Noah Cyrus,THE END OF EVERYTHING,July,6J2LdBN97cDWn0MLxYh9HB,0.868,0.708,0.186,0.0,0.0779,-8.953,72.541,0.322
+79,Billie Eilish,dont smile at me,watch,7eB1V5LvAdxCc7brfGhRRo,0.333,0.441,0.599,0.00198,0.103,-8.985,165.212,0.35
+80,Adele,19,Right As Rain,6OLudcGaT6HQ5bXH54kI8i,0.773,0.842,0.679,0.0,0.0891,-5.876,137.2,0.918
+81,James Bay,Electric Light,Us,16XiTUC2rQvb5lmtOm3FYY,0.177,0.559,0.473,1.5e-06,0.108,-4.147,69.973,0.341
+82,Labrinth,EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES),I’m Tired (with Zendaya) - Bonus Track,30XBkzzcubUJLANeXM4D0C,0.651,0.375,0.133,0.0,0.0695,-10.624,131.721,0.192
+83,Taylor Swift,evermore (deluxe version),right where you left me - bonus track,3zwMVvkBe2qIKDObWgXw4N,0.769,0.581,0.619,0.000106,0.117,-6.524,137.915,0.645
+84,Lana Del Rey,Norman Fucking Rockwell!,Happiness is a butterfly,3lG6OtGDsYAOALxEmubQQm,0.969,0.467,0.119,1.4e-06,0.0973,-10.99,70.499,0.156
+85,Billie Eilish,dont smile at me,idontwannabeyouanymore,41zXlQxzTi6cGAjpOXyLYH,0.737,0.483,0.412,0.0,0.116,-8.461,170.163,0.247
+86,Adele,19,Daydreamer,3FYqKyAKIB4mCygIFc1IYn,0.964,0.807,0.105,0.0,0.103,-13.188,109.014,0.372
+87,Julia Michaels,Inner Monologue Part 1,What A Time (feat. Niall Horan),5WtfUKzXircvW8l5aaVZWT,0.662,0.516,0.467,0.0,0.0853,-6.184,132.861,0.386
+88,Stephen Sanchez,Easy On My Eyes,Until I Found You,6VhuP99TE6gYNQRJIlAWFD,0.757,0.346,0.5,0.0,0.189,-6.097,202.466,0.191
+89,Taylor Swift,reputation,Don’t Blame Me,1R0a2iXumgCiFb7HEZ7gUE,0.106,0.615,0.534,1.76e-05,0.0607,-6.719,135.917,0.193
+90,Sleeping At Last,"Covers, Vol. 2",Already Gone,5zCunX8URvLoBHlg1Fnjv6,0.954,0.418,0.248,4.21e-06,0.108,-9.997,130.953,0.298
+91,Billie Eilish,Bellyache,bellyache,51NFxnQvaosfDDutk0tams,0.46,0.695,0.573,0.0734,0.482,-8.597,99.939,0.408
+92,Adele,19,Crazy For You,2L1zGWSV5udDZlW668nRtA,0.91,0.707,0.139,0.0,0.105,-12.3,85.868,0.323
+93,Selena Gomez,My Mind & Me,My Mind & Me,0XER3HPMx223xWaAgNKp4Y,0.566,0.6,0.389,0.0,0.0826,-5.727,143.577,0.244
+94,Coldplay,Parachutes,Sparks,7D0RhFcb3CrfPuTJ0obrod,0.748,0.371,0.268,0.0517,0.104,-10.506,102.617,0.165
+95,Shawn Mendes,Wonder,Wonder,6ZuahEctZD6w75peme58hm,0.136,0.442,0.631,2.29e-05,0.133,-5.096,139.774,0.129
+96,Katy Perry,Teenage Dream: The Complete Confection,Part Of Me,1nZzRJbFvCEct3uzu04ZoL,0.000417,0.678,0.918,0.0,0.0744,-4.63,130.028,0.769
+97,Billie Eilish,Bored,Bored,04sN26COy28wTXYj3dMoiZ,0.896,0.614,0.318,0.00239,0.0795,-12.695,119.959,0.112
+98,Noah Cyrus,THE END OF EVERYTHING,Lonely,6U1iuA5QfzYRPJxvdcxqtf,0.798,0.53,0.281,0.0,0.0928,-8.274,122.442,0.341
+99,Conan Gray,Superache,People Watching,3TFoEJe5zNuHZStRboWPxg,0.381,0.53,0.592,0.0,0.294,-7.281,125.721,0.544
